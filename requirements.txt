@@ -1,0 +1,12 @@
+os
+numpy
+pandas
+requests
+scikit-learn
+seaborn
+torchsummary
+matplotlib
+PIL
+torch
+torchvision
+pickle
